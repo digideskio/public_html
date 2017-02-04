@@ -1,5 +1,5 @@
 # public_html
-static site for digidesk control server
+static site for enterstudios control server
 
 
-##static site for digidesk control server http://control.digidesk.org — 
+##static site for digidesk control server https://dev.enterstudios.biz
