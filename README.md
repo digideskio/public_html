@@ -2,4 +2,4 @@
 static site for enterstudios control server
 
 
-##static site for digidesk control server https://dev.enterstudios.biz
+##static site for digidesk control server http://dev.enterstudios.biz
